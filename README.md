@@ -1,3 +1,5 @@
+English | [中文](README.zh.md)
+
 ## 1\. Environment
 
 This mod does not depend on any base mod.
