@@ -1,49 +1,49 @@
-## ① 环境
+## 1\. Environment
 
-本 mod 不依赖任何基础 mod。
+This mod does not depend on any base mod.
 
-本 mod 支持 public beta 111 版本与 default 107 版本。
+This mod supports the Public Beta 111 version and the Default 107 version.
 
-理论上只要没有大的api更新或卡牌修改，本mod无须修改即可自动适配新版本。
+In theory, as long as there are no major API updates or card changes, this mod should automatically adapt to new versions without any modification.
 
-## ② 15 种语言支持
+## 2\. 15 Languages Supported
 
-亚洲：简体中文 / 繁体中文 / 日语 / 韩语 / 泰语 / 土耳其语
+Asia: Simplified Chinese / Traditional Chinese / Japanese / Korean / Thai / Turkish
 
-欧洲与美洲：英语 / 葡萄牙语（巴西）/ 西班牙语（拉美）/ 西班牙语 / 法语 / 俄语 / 德语 / 意大利语 / 波兰语
+Europe \& the Americas: English / Portuguese (Brazil) / Spanish (Latin America) / Spanish / French / Russian / German / Italian / Polish
 
-文本标签按首字母顺序，依次为 deu、eng、esp、fra、ita、jpn、kor、pol、ptb、rus、spa、tha、tur、zhs、zht。
+The text tags, in alphabetical order, are: deu, eng, esp, fra, ita, jpn, kor, pol, ptb, rus, spa, tha, tur, zhs, zht.
 
-文本均来自《杀戮尖塔 1》，仅作简单格式调整，可能有少量错误。
+All texts are taken from Slay the Spire 1, with only simple formatting adjustments; there may be minor errors.
 
-## ③ 效果
+## 3\. Effects
 
-将游戏中“潦草急就”（无色金卡）的效果、卡名、卡面图片、卡面文本更换为与《杀戮尖塔 1》中卡牌“潦草急就”（观者金卡）相同。
+Replaces the effect, card name, card art, and card text of the game's "Scrawl" card (a colorless Rare) with those of the "Scrawl" card from Slay the Spire 1 (a Rare Watcher card).
 
-本 mod 采用直接在“潦草急就”原卡牌上进行修改的方法生效，并非生成新卡牌 + 禁用旧卡牌。
+This mod works by modifying the original "Scrawl" card directly, rather than creating a new card and disabling the old one.
 
-本 mod 影响存档：在 mod 开启时，所有历史记录中的“潦草急就”卡牌都会被更换为《杀戮尖塔 1》样式；关闭 mod 后会恢复原状。
+This mod affects save files: while the mod is enabled, all "Scrawl" cards in historical records will be replaced with the Slay the Spire 1 version; disabling the mod restores the original state.
 
-## ④ 影响（基于本人游戏理解）
+## 4\. Impact (Based on My Understanding of the Game)
 
-在原版游戏所有难度下，大多数对局中，对于所有职业，塔1版本显著强于塔2原版。
+At all ascension levels in the vanilla game, in most runs, for all characters, the STS1 version is significantly stronger than the STS2 original.
 
-## ⑤ 兼容性与 Bug
+## 5\. Compatibility \& Bugs
 
-本 mod 采用最小依赖的方式写成，正常来说与大多数 mod 兼容，且不易随着版本变化而失效。
+This mod is written with minimal dependencies, so under normal circumstances it is compatible with most mods and unlikely to break as the game version changes. 
 
-但本 mod 不保证与盗版、修改版、移动版、老旧版本或者冷门 mod、次级 mod 的兼容性。
+However, compatibility is not guaranteed with pirated copies, modified versions, mobile versions, outdated versions, niche mods, or secondary mods.
 
-## ⑥ 鸣谢
+## 6\. Credits
 
-本 mod 使用 Opencode（桌面版）+ DeepSeek V4 Flash（0731 正式版）完成，感谢梁圣。
+This mod was made with Opencode (desktop) + DeepSeek V4 Flash (0731 GA). Thanks to Saint Liang.
 
-感谢《杀戮尖塔 2》制作组为了方便玩家制作 mod 所做的努力。
+Thanks to the Slay the Spire 2 team for their efforts to make modding easier for players.
 
-感谢 Baselib 制作者提供的文档，感谢 GitHub 项目 @jiegec/STS2RevertAnthony 提供的源码参考。
+Thanks to the Baselib developers for their documentation, and to the GitHub project @jiegec/STS2RevertAnthony for the source code reference.
 
-## ⑦ 开源地址与联系方式
+## 7\. Open-Source Repository \& Contact
 
-开源地址：https://github.com/Rim-World/STS2Mod-Replace-STS2-Scrawl-with-STS1
+Open-source repository: https://github.com/Rim-World/STS2Mod-Replace-STS2-Scrawl-with-STS1
 
-你可以直接在评论区提出你的意见与反馈。
+Feel free to leave your comments and feedback in the comment section.
