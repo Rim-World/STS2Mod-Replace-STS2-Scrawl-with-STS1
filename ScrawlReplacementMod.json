@@ -1,0 +1,12 @@
+{
+  "id": "ScrawlReplacementMod",
+  "name": "潦草急就 (Scrawl)",
+  "author": "再玩小卡组找人弄你",
+  "description": "将无色卡「潦草急就」(Scrawl) 整卡替换为杀戮尖塔1同名卡牌：升级改为费用 0（不再获得保留），卡名/卡图/描述为 STS1 样式，支持 15 种语言（15 个语言目录），兼容 default v0.107.1 与 public beta v0.111.0。",
+  "version": "1.0",
+  "has_pck": true,
+  "has_dll": true,
+  "min_game_version": "0.107.1",
+  "dependencies": [],
+  "affects_gameplay": true
+}
