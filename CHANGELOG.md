@@ -13,7 +13,7 @@
 - 从远端恢复本地缺失的 `README.md`、`README.zh.md`（移入 `9.SRC/ScrawlReplacementMod/`）、
   `LICENSE`（保留在仓库根）。
 - 未改动任何源码字节（`.cs` / `.csproj` / `.json` / `.godot` / `.cfg` / `.ps1` 仅随目录移动）。
-- 仓库整理提交编号：`待回填`。
+- 仓库整理提交编号：`436adde9`。
 
 ## [1.0] - 2026-08-15
 
